@@ -47,12 +47,12 @@ about_me:
 - [What actually happens when a for-loop runs — a GDB walkthrough](https://medium.com/@wasif.bscs24seecs/what-actually-happens-when-a-for-loop-runs-a-gdb-walkthrough-48be3a90b083)
 - [Building a cross-platform shell in C++: what fork() does that _spawnvp() can't](https://medium.com/@wasif.bscs24seecs/building-a-cross-platform-shell-in-c-what-fork-does-that-spawnvp-cant-02913b59d9c7)
 
-### GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WaasilaAsif&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaasilaAsif&layout=compact&theme=github_dark&hide_border=true" height="165"/>
-</p>
+<!-- When I have a big PR Inshallah -->
+<!-- ### GitHub Stats
+
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=WaasilaAsif)](https://github.com/stats-organization/github-stats-extended) -->
+
 
 <p align="center">
   <picture>
