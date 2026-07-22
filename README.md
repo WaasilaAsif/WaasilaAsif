@@ -24,31 +24,21 @@ about_me:
   reading: LOTR (series), Orbiting Jupiter (standalone), dystopian fantasy (genre)
 ```
 
-### 🛠 Tools & Tech
+### Tools & Tech
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgres" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="android" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgres" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-
+<img src="https://cdn.jsdelivr.net/npm/@thesvg/icons/icons/claude.svg" alt="claude" width="40" height="40"/>
 </p>
 
-### 📌 Selected work
+### Selected work
 
 - [RentScape](https://github.com/WaasilaAsif/RentScape) — full-stack rental platform, tech lead on auth (Supabase Auth + RLS) and PostGIS geospatial search, 20+ REST endpoints
 - [Cross-OS-Cpp-Shell](https://github.com/WaasilaAsif/Cross-OS-Cpp-Shell) — Unix-style shell in C++, built independently with custom builtins and dual Windows/Unix process creation
@@ -57,7 +47,7 @@ about_me:
 - [What actually happens when a for-loop runs — a GDB walkthrough](https://medium.com/@wasif.bscs24seecs/what-actually-happens-when-a-for-loop-runs-a-gdb-walkthrough-48be3a90b083)
 - [Building a cross-platform shell in C++: what fork() does that _spawnvp() can't](https://medium.com/@wasif.bscs24seecs/building-a-cross-platform-shell-in-c-what-fork-does-that-spawnvp-cant-02913b59d9c7)
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=WaasilaAsif&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
