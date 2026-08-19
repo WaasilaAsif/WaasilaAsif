@@ -17,6 +17,7 @@ CS undergrad @ NUST SEECS — building toward systems security & low-level engin
 about_me:
   focus: understanding what's under the abstraction — schedulers, binaries, packets
   currently:
+    - writing my own library to ease ELF for beginners
     - pwn.college (Linux Luminarium)
     - building pyelf-teach
     - writing CTF writeups
