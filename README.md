@@ -45,6 +45,9 @@ about_me:
 - [Cross-OS-Cpp-Shell](https://github.com/WaasilaAsif/Cross-OS-Cpp-Shell) — Unix-style shell in C++, built independently with custom builtins and dual Windows/Unix process creation
 - [assembly-arcade](https://github.com/WaasilaAsif/assembly-arcade) — low-level/assembly work
 - [Social-Graph-Explorer](https://github.com/WaasilaAsif/Social-Graph-Explorer) — backend lead, C++
+- [ThoughtBook Android low level app dev ](https://github.com/WaasilaAsif/Social-Graph-Explorer)
+- [BillSplit Low level smart bill splitting and money tracking](https://github.com/WaasilaAsif/BillSplit)
+- Pyelf teach a starter for elf files for beginners (Under work before submitting to Pypi)
 - [What actually happens when a for-loop runs — a GDB walkthrough](https://medium.com/@wasif.bscs24seecs/what-actually-happens-when-a-for-loop-runs-a-gdb-walkthrough-48be3a90b083)
 - [Building a cross-platform shell in C++: what fork() does that _spawnvp() can't](https://medium.com/@wasif.bscs24seecs/building-a-cross-platform-shell-in-c-what-fork-does-that-spawnvp-cant-02913b59d9c7)
 
